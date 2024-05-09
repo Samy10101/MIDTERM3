@@ -1,6 +1,6 @@
 ---
 title: "Intra"
-author: "By Jean Samy François"
+author: "By Jean Samy François and Israel Jean francois"
 output: 
   flexdashboard::flex_dashboard:
   flexdashboard::valueBox():
